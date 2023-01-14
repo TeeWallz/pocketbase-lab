@@ -11,7 +11,7 @@ Check it out at https://pocketbase-lab.pages.dev/
 I am not very good at React, and just picked up last month. So if you think I'm doing
 weird stuff and doing things "the React way", I would really appreciate feedback! Just raise in issue!
 
-## Deploying yourself
+## Deploying yourself 
 
 ### Frontend
 
